@@ -13,4 +13,4 @@
 
 ---
 
-[문제 기록](https://www.notion.so/42911112981842169c4a40a97640a26a)
+https://www.notion.so/f14feaf110864cb4bb4d24c99ee0e0e5
