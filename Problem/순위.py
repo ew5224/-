@@ -9,7 +9,7 @@ def solution(n, results):
         dict_win[result[0]].append(result[1])
         dict_lose[result[1]].append(result[0])
         check(dict_win, dict_lose, result[0], result[1])
-        
+
     print(dict_win, dict_lose)
 
     answer =0
